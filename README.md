@@ -1,7 +1,7 @@
-# Selenium Web Driver Unitest Project - Django
+# Selenium Web Driver Unittest Project - Django
 ---
 #### Description
-Selenium Web Driver Unitest  for  Website is built in Python (Django)
+Selenium Web Driver Unittest  for  Website is built in Python (Django)
 #### Requirements
 * **Python = 3.7.**
 * Django == 2.1.7
